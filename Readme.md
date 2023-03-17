@@ -1,0 +1,1 @@
+Aqui estão alguns algoritmos de operações simples de aritmética em Portugol!
