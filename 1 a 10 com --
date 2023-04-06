@@ -1,0 +1,16 @@
+programa {
+  /* 1 a 0 com numero--*/
+
+   inteiro total = 0
+   inteiro numero = 10
+
+   funcao inicio()
+{ 
+      para (numero; numero > 0; numero--)
+
+  {  
+      escreva ("Número: ", numero, "\n")
+  }
+  escreva ("\nTotal: ", numero)
+  }
+}
